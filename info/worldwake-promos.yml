@@ -1,0 +1,18 @@
+---
+object: set
+id: 7fe6f402-6e57-476c-8f7b-500fd08e3099
+code: pwwk
+name: Worldwake Promos
+uri: https://api.scryfall.com/sets/7fe6f402-6e57-476c-8f7b-500fd08e3099
+scryfall_uri: https://scryfall.com/sets/pwwk
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Apwwk&unique=prints
+released_at: '2010-02-05'
+set_type: promo
+card_count: 4
+parent_set_code: wwk
+digital: false
+nonfoil_only: false
+foil_only: true
+block_code: zen
+block: Zendikar
+icon_svg_uri: https://svgs.scryfall.io/sets/wwk.svg?1694404800

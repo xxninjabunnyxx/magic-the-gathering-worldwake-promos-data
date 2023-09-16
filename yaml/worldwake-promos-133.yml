@@ -1,0 +1,114 @@
+---
+object: card
+id: e2915763-2b63-4408-b014-49d52e3d65f6
+oracle_id: 876ac6f6-74de-4666-84c6-83d81f054723
+multiverse_ids: []
+tcgplayer_id: 38351
+cardmarket_id: 22938
+name: Celestial Colonnade
+lang: en
+released_at: '2010-02-05'
+uri: https://api.scryfall.com/cards/e2915763-2b63-4408-b014-49d52e3d65f6
+scryfall_uri: https://scryfall.com/card/pwwk/133/celestial-colonnade?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/e/2/e2915763-2b63-4408-b014-49d52e3d65f6.jpg?1561758302
+  normal: https://cards.scryfall.io/normal/front/e/2/e2915763-2b63-4408-b014-49d52e3d65f6.jpg?1561758302
+  large: https://cards.scryfall.io/large/front/e/2/e2915763-2b63-4408-b014-49d52e3d65f6.jpg?1561758302
+  png: https://cards.scryfall.io/png/front/e/2/e2915763-2b63-4408-b014-49d52e3d65f6.png?1561758302
+  art_crop: https://cards.scryfall.io/art_crop/front/e/2/e2915763-2b63-4408-b014-49d52e3d65f6.jpg?1561758302
+  border_crop: https://cards.scryfall.io/border_crop/front/e/2/e2915763-2b63-4408-b014-49d52e3d65f6.jpg?1561758302
+mana_cost: ''
+cmc: 0.0
+type_line: Land
+oracle_text: |-
+  Celestial Colonnade enters the battlefield tapped.
+  {T}: Add {W} or {U}.
+  {3}{W}{U}: Until end of turn, Celestial Colonnade becomes a 4/4 white and blue Elemental creature with flying and vigilance. It's still a land.
+colors: []
+color_identity:
+- U
+- W
+keywords: []
+produced_mana:
+- U
+- W
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: true
+reprint: true
+variation: false
+set_id: 7fe6f402-6e57-476c-8f7b-500fd08e3099
+set: pwwk
+set_name: Worldwake Promos
+set_type: promo
+set_uri: https://api.scryfall.com/sets/7fe6f402-6e57-476c-8f7b-500fd08e3099
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apwwk&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/pwwk?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/e2915763-2b63-4408-b014-49d52e3d65f6/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A876ac6f6-74de-4666-84c6-83d81f054723&unique=prints
+collector_number: '133'
+digital: false
+rarity: rare
+watermark: colorpie
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Kekai Kotaki
+artist_ids:
+- 4b771085-c049-4308-930d-ec9665f803a4
+illustration_id: bf1bb2fd-97d0-4a72-b3a1-133c1a1603ef
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- setpromo
+- buyabox
+edhrec_rank: 4350
+penny_rank: 78
+prices:
+  usd: 
+  usd_foil: '5.51'
+  usd_etched: 
+  eur: 
+  eur_foil: '2.50'
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Celestial+Colonnade&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Celestial+Colonnade&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Celestial+Colonnade
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/38351?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Celestial+Colonnade&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Celestial+Colonnade&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
